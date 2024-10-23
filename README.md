@@ -32,3 +32,14 @@ Username,Phone number,Email,Display name,Gender
 **Toast**: Used for displaying notifications and alerts.
 
 **Tailwind CSS**: For a responsive and modern UI design.
+![Screenshot 2024-10-23 135059](https://github.com/user-attachments/assets/f9d487ed-4d32-4ec4-bafb-0a803b634415)
+![Screenshot 2024-10-23 134834](https://github.com/user-attachments/assets/5e41a041-4f1c-4256-85ee-b17d91019c58)
+![Screenshot 2024-10-23 134910](https://github.com/user-attachments/assets/80b8a2b8-0d5b-4d18-ae3e-dd4c6bef4ad1)
+![Screenshot 2024-10-23 134935](https://github.com/user-attachments/assets/a154b4bc-ff93-449c-88c4-60325b859ebc)
+![Screenshot 2024-10-23 134801](https://github.com/user-attachments/assets/4c19f40f-a216-4be8-b6fa-441a73bb2758)
+![Screenshot 2024-10-23 135036](https://github.com/user-attachments/assets/567c465d-2f7a-4c5a-8ab4-9e39c2325225)
+![Screenshot 2024-10-23 134958](https://github.com/user-attachments/assets/e86d0cf0-d65b-433e-a9bd-a64585c0abc4)
+
+
+
+
